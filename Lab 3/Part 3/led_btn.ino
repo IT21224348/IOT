@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "winterfell";
-const char* password = "RaV?=27jn";
+const char* ssid = "Type your WiFi Name";
+const char* password = "Type Your Password";
 const char* mqtt_server = "broker.hivemq.com";
 const int mqtt_port = 1883;
 const char* topic = "lab3/test";
