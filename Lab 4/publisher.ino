@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // WiFi credentials
-const char* ssid = "winterfell";
-const char* password = "RaV?=27jn";
+const char* ssid = "Your WiFi Name";
+const char* password = "Your WiFi Password";
 
 // MQTT broker details
 const char* mqtt_server = "broker.hivemq.com";
